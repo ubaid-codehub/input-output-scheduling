@@ -77,6 +77,10 @@ The following features are not covered in this project:
 * Gain hands-on experience with scheduling concepts used in Operating Systems
 
 ---
+## Outputs.
+
+![WhatsApp Image 2026-01-07 at 4 29 29 PM](https://github.com/user-attachments/assets/dd5dc7aa-c58e-4710-8ccc-334aad676b23)
+
 
 ## ✅ Conclusion
 
