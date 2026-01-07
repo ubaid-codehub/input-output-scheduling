@@ -108,13 +108,4 @@ By combining **performance metrics** and **visual Gantt charts**, this project s
 
 ---
 
-## 🚀 Future Enhancements (Optional)
-
-* Multi-core CPU scheduling simulation
-* Real-time process arrival handling
-* Export results as reports
-* Web-based version of the simulator
-
----
-
 📌 *This project is ideal for students studying Operating Systems and CPU scheduling concepts.*
