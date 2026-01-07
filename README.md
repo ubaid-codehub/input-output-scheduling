@@ -79,7 +79,25 @@ The following features are not covered in this project:
 ---
 ## Outputs.
 
+## FCFS
+
 ![WhatsApp Image 2026-01-07 at 4 29 29 PM](https://github.com/user-attachments/assets/dd5dc7aa-c58e-4710-8ccc-334aad676b23)
+
+## SJF
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/93608151-3d92-4388-982a-b2aadb564cab" />
+
+## SRJF
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/400ca04b-9a7d-48e9-98c3-062f2de7aa10" />
+
+## Round Robin
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/4f8b2924-b5bf-4e81-a2b2-667bdbe5bc24" />
+
+## CFS
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/48b57429-5327-4a8c-8bca-cb5c0f40873e" />
 
 
 ## ✅ Conclusion
